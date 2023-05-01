@@ -10,4 +10,4 @@
 5. Event API: Create a RESTful API using ASP.NET Core Web API to expose event data for third-party applications.
 6. Database: Use SQL Server as the database to store event and user data, and Entity Framework Core for database access and manipulation.
 
-### Tech Stack/Skills: ASP.NET Core, C#, SQL, LINQ, and API development. 
+### Tech Stack/Skills: REACT, ASP.NET Core, C#, SQL, LINQ, and API development. 
